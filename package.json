@@ -1,0 +1,31 @@
+{
+  "name": "pollingapp-server",
+  "version": "1.0.0",
+  "description": "server for polling app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katrinasilver/pollingapp-server.git"
+  },
+  "keywords": [],
+  "author": "Katrina Agustin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katrinasilver/pollingapp-server/issues"
+  },
+  "homepage": "https://github.com/katrinasilver/pollingapp-server#readme",
+  "dependencies": {
+    "@babel/core": "^7.4.0",
+    "babel-loader": "^8.0.5",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "popper.js": "^1.14.7",
+    "react": "^16.8.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.0"
+  }
+}
